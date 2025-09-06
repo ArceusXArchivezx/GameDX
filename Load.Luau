@@ -3,7 +3,11 @@ local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
 
-local BASE_URL_REVERSED = "/niam/sdaeh/sfer/XQemaG/xzevihcrAXsuecrA/moc.tnetnocresubuhtig.war//:sptth"
+local BASE_URL_REVERSED = "104, 116, 116, 112, 115, 58, 47, 47, 114, 97, 119, 46, 103, 105, 116, 104, 
+117, 98, 117, 115, 101, 114, 99, 111, 110, 116, 101, 110, 116, 46, 99, 111, 
+109, 47, 65, 114, 99, 101, 117, 115, 88, 65, 114, 99, 104, 105, 118, 101, 
+122, 120, 47, 71, 97, 109, 101, 68, 88, 47, 114, 101, 102, 115, 47, 104, 
+101, 97, 100, 115, 47, 109, 97, 105, 110, 47"
 local function getBaseUrl()
     local success, decoded = pcall(function()
         return string.reverse(BASE_URL_REVERSED)
