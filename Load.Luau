@@ -27,7 +27,7 @@ local function getBaseUrl()
 end
 
 local GameScripts = {
-    [""] = "",
+    ["Cute Hair Obby For Girls"] = "Alakir.lua",
 }
 
 local success, guiError = pcall(function()
