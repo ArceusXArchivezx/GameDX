@@ -30,6 +30,7 @@ local GameScripts = {
     ["Cute Hair Obby For Girls"] = "Alakir.lua",
     ["FREE UGC Hair Obby"] = "Aevum.lua",
     ["DTI Obby"] = "Aetherium.luau",
+    ["Obby For FREE UGC Emotes"] = "Akasha.lua",
 }
 
 local success, guiError = pcall(function()
