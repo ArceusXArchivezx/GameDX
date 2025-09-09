@@ -33,6 +33,7 @@ local GameScripts = {
     ["Obby For FREE UGC Emotes"] = "Akasha.lua",
     ["Baddie Hair Obby for"] = "Alcyoneus.luau",
     ["Zombie Survival"] = "Aldrazar.lua",
+    ["Win For A UGC Hair Obby"] = "Alea.luau",
 }
 
 local success, guiError = pcall(function()
