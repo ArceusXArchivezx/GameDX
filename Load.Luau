@@ -34,6 +34,7 @@ local GameScripts = {
     ["Baddie Hair Obby for"] = "Alcyoneus.luau",
     ["Zombie Survival"] = "Aldrazar.lua",
     ["Win For A UGC Hair Obby"] = "Alea.luau",
+    ["(UGC) Cart ride Obby"] = "Almagest.lua",
 }
 
 local success, guiError = pcall(function()
